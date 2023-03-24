@@ -1,7 +1,7 @@
 -  Hi, I’m Rishabh Chaturvedi.
 -  I am doing Master's in Robotics System Engineering at RWTH. 
--  I’m interested in application of Machine Learning and Computer Vision in the field of Robotics.
--  I’m currently learning TensorFlow and Pytorch libraries. 
+-  I’m interested in application of Machine Learning and Computer Vision in the field of Autonomous Vehicles and Robotics.
+-  I’m currently learning TensorFlow, Keras and Pytorch libraries. 
 
 
 <!---
